@@ -26,7 +26,7 @@ In short, when you submit code changes, your submissions are understood to be un
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](); it's that easy!
 
 ## Write bug reports with detail, background, and sample code
-Defult github bug report template are used. [GitHub Issue Template](https://github.com/sasankaweera123/Food_Menu_app/tree/master/.github/ISSUE_TEMPLATE) 
+Defult github bug report template are used. [GitHub Issue Template](https://github.com/sasankaweera123/Food_Menu_app/tree/main/.github/ISSUE_TEMPLATE) 
 
 **Great Bug Reports** tend to have:
 
